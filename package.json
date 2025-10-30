@@ -1,0 +1,20 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "personal blog in express/node/mongo for Henry Clay",
+  "homepage": "https://github.com/henrymclay/blog#readme",
+  "bugs": {
+    "url": "https://github.com/henrymclay/blog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrymclay/blog.git"
+  },
+  "license": "MIT",
+  "author": "henry clay",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
